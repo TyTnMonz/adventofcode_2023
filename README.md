@@ -4,6 +4,5 @@ This repository contains my solutions for the daily challenges of Advent of Code
 Each folder represents a different day and includes the solving code along with a brief problem description.
 
 # Repository Structure
- - Day1: Description of the challenge for Day 1 and code solutions.
- - Day2: Description of the challenge for Day 2 and code solutions.
+ - Day1 : Description of the challenge for Day 1 and code solutions.
 ...
