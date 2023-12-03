@@ -1,0 +1,20 @@
+{
+    "name": "advent-of-code-2023",
+    "version": "1.0.0",
+    "description": "I'm participating to the 2023 edition of [Advent of Code](http://adventofcode.com/2023/), a nice little puzzle game for developers. It consists in solving a couple of Christmas-related programming puzzles, and it doesn't matter what language you're choosing as long as you get the solution. I warmly suggest to give it a try yourself!",
+    "type": "module",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TyTnMonz/adventofcode_2023.git"
+    },
+    "keywords": [],
+    "author": {
+      "name": "TyTnMonz",
+      "email": "marco.monza86@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/TyTnMonz/adventofcode_2023/issues"
+    },
+    "homepage": "https://github.com/TyTnMonz/adventofcode_2023#readme"
+  }
